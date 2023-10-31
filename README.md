@@ -1,2 +1,2 @@
 # Projetos em Python
- Data Science and Analytics
+projeto da Formação Cientista de Dados da Data Science Academy
